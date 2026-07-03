@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-- Senior Cybersecurity and Digital Forensics student at Imam Abdulrahman Bin Faisal University. Solid background in threat analysis and digital investigations, with practical experience gained through academic and hands-on security projects.
+- Senior Cybersecurity and Digital Forensics student at Imam Abdulrahman Bin Faisal University.
 
 
 ## Areas of Interest
