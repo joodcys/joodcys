@@ -9,13 +9,10 @@
 ## About Me
 - Senior Cybersecurity and Digital Forensics student at Imam Abdulrahman Bin Faisal University.
 
-
 ## Areas of Interest
 - Threat Hunting
 - Threat Intelligence
 - SOC Operations
-- OT/ICS Security
-
 
 ## Languages & Tools
 
